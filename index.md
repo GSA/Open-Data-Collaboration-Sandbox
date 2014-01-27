@@ -10,7 +10,7 @@ filename: index.md
 
 * [/Data hub in a box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
 * OIRA Regs 
-* GeoJSON in GitHub
+* GeoJSON in GitHub (http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github.md)  
 * [Terms of Service for third-party tools](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
 
 

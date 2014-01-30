@@ -12,7 +12,7 @@ filename: index.md
 * OIRA Regs 
 * [GeoJSON in GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [Terms of Service for third-party tools](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
-* [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemple.md)
+* [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemple)
 
 
 ## How To Contribute

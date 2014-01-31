@@ -15,7 +15,7 @@ filename: index.md
 * [Simple API - Take 1](https://github.com/GSA/Simple-API)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
-* [New API catalog]()
+* [New API catalog](https://github.com/GSA/slash-developer-pages/blob/master/redesign_of_catalog.md)
 
 
 ## How To Contribute

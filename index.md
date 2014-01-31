@@ -12,7 +12,7 @@ filename: index.md
 * [GeoJSON in GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [Terms of Service for third-party tools](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
 * [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemple)
-* [Simple API - Take 1](https://github.com/benbalter/simple-api)
+* [Simple API - Take 1](https://github.com/GSA/Simple-API)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 

@@ -14,7 +14,7 @@ filename: index.md
 * [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemple)
 * [Simple API - Take 1](https://github.com/benbalter/simple-api)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
-* [Embedding ](https://github.com/gbinal/embedding-github-prototype)
+* [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 
 
 ## How To Contribute

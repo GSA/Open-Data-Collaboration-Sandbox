@@ -17,6 +17,7 @@ filename: index.md
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [New API catalog](https://github.com/GSA/slash-developer-pages/blob/master/redesign_of_catalog.md)
+* [Notes on Publishing Data through GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
 
 
 ## How To Contribute

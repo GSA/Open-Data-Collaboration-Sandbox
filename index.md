@@ -8,7 +8,7 @@ filename: index.md
   
 ## Projects
 
-* [/Data hub in a box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
+* [/Data Hub in a Box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
 * [GeoJSON in GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [Terms of Service for third-party tools](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
 * [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemplate)
@@ -18,6 +18,7 @@ filename: index.md
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [New API catalog](https://github.com/GSA/slash-developer-pages/blob/master/redesign_of_catalog.md)
 * [Notes on Publishing Data through GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
+* [Open Source Hubs In a Box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
 
 
 ## How To Contribute

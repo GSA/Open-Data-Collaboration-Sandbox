@@ -11,7 +11,7 @@ filename: index.md
 * [/Data hub in a box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
 * [GeoJSON in GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [Terms of Service for third-party tools](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
-* [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemple)
+* [Microsite Template](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/MicrositeTemplate)
 * [Simple-API](https://github.com/GSA-Simple-API)
 * [Very Simple API](https://github.com/GSA/Very-Simple-API)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)

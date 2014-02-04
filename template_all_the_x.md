@@ -11,13 +11,15 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 
 ## Finished Examples
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)
-* [Presentations (Hub with HTML-powered presentations)](https://github.com/gbinal/Presentations)
+
  
 ## In Development 
 * [V. Simple API](https://github.com/GSA/Very-Simple-API)
 * [Presentations](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/github_presentations)
+* [Presentations (Hub with HTML-powered presentations)](https://github.com/gbinal/Presentations)
 * [/Data Hub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
 * [/Developer Hub](https://github.com/gbinal/Developer-Hub-in-a-Box)
+
 
 
 ## Ideas for Other Templates

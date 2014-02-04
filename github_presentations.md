@@ -5,6 +5,9 @@ layout: default
 filename: github_presentations.md
 ---
 
+  
+## Draft Products
+* [Basic Presentation Hub using HTML](https://github.com/gbinal/Presentations)
 
 ## Loose Notes
 
@@ -31,6 +34,4 @@ Re: Accessibility - 'It's semantic HTML. So better than Powerpoint. Disable java
 
 ### From Kin Lane
 * [Code](https://github.com/kinlane/talks/tree/gh-pages) | [Hosted](http://kinlane.github.io/talks/)  
-  
-## Products
-* Basic Presentation Hub using HTML
+

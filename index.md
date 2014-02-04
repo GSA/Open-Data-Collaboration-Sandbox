@@ -19,6 +19,7 @@ filename: index.md
 * [New API catalog](https://github.com/GSA/slash-developer-pages/blob/master/redesign_of_catalog.md)
 * [Notes on Publishing Data through GitHub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
 * [Open Source Hubs In a Box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
+* [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 
 
 ## How To Contribute

@@ -12,7 +12,7 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 ## Examples
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)
 * [V. Simple API](https://github.com/GSA/Very-Simple-API)
-* [Presentation](https://github.com/gbinal/GitHub-for-Presentations)
+* [Presentation](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/github_presentations)
 * [/Data Hub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
 * [/Developer Hub](https://github.com/gbinal/Developer-Hub-in-a-Box)
 

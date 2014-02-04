@@ -10,12 +10,12 @@ filename: github_presentations.md
 
 The framework is called impress.js. It's not technically GitHub pages specific, but Pages works well.
 
-* http://earlyandoften.wordpress.com/2012/01/16/impress_ js _github/
+* `http://earlyandoften.wordpress.com/2012/01/16/impress_js_github/`
 * https://github.com/bartaz/impress.js/wiki/Examples-and-demos
 * https://github.com/bmcmurray/hekyll
 * http://www.paulund.co.uk/no-more-powerpoint-i-have-impress-js
 
-Can also  fork one an existing presentation and clear out the _posts folder.
+Can also  fork one an existing presentation and clear out the `_posts` folder.
 
 
 Re: Accessibility - 'It's semantic HTML. So better than Powerpoint. Disable javascript and take a look. (or view source)'

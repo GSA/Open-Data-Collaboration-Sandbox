@@ -8,9 +8,9 @@ filename: github_presentations.md
 
 ## Loose Notes
 
-'The framework is called "impress.js". It's not technically GitHub pages specific, but Pages works well.'
+The framework is called impress.js. It's not technically GitHub pages specific, but Pages works well.
 
-* http://earlyandoften.wordpress.com/2012/01/16/impress_js_github/
+* http://earlyandoften.wordpress.com/2012/01/16/impress_ js _github/
 * https://github.com/bartaz/impress.js/wiki/Examples-and-demos
 * https://github.com/bmcmurray/hekyll
 * http://www.paulund.co.uk/no-more-powerpoint-i-have-impress-js

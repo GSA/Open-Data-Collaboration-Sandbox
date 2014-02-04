@@ -21,6 +21,7 @@ filename: index.md
 * [Open Source Hubs In a Box](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Layering Third Party Services](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services.md)
+* [Template All The X](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 
 
 ## How To Contribute

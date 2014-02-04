@@ -11,7 +11,7 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 
 ## Finished Examples
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)
-* [Presentations (Hub with HTML-powered presentations](https://github.com/gbinal/Presentations)
+* [Presentations (Hub with HTML-powered presentations)](https://github.com/gbinal/Presentations)
  
 ## In Development 
 * [V. Simple API](https://github.com/GSA/Very-Simple-API)

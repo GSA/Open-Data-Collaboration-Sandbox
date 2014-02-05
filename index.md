@@ -23,6 +23,7 @@ filename: index.md
 * [Layering Third Party Services](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services.md)
 * [Template All The X](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
+* [Open Data Policy Tips and Tricks](https://github.com/gbinal/Open-Data-Policy---Tricks-and-Tips/)
 
 
 ## How To Contribute

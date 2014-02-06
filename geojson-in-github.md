@@ -17,3 +17,4 @@ title: GeoJSON in GitHub
 * [Congressional Boundaries](https://github.com/JeffreyBLewis/congressional-district-boundaries)
 * Note several examples [here](https://github.com/stars/benbalter)
 * Note updates in [blog post here](https://help.github.com/articles/mapping-geojson-files-on-github)
+* [Notes on embedding](https://help.github.com/articles/mapping-geojson-files-on-github)

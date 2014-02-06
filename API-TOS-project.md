@@ -21,7 +21,7 @@ _Under Construction_
   
 ## Other Notes  
 
-_Under Construction_  
+* Tumblr's [section 17](http://www.tumblr.com/policy/en/terms_of_service)
 
 
 

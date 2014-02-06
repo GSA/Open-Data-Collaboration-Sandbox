@@ -16,3 +16,4 @@ title: GeoJSON in GitHub
 * More complex - [World.geo.json](https://github.com/johan/world.geo.json)
 * [Congressional Boundaries](https://github.com/JeffreyBLewis/congressional-district-boundaries)
 * Note several examples [here](https://github.com/stars/benbalter)
+* Note updates in [blog post here](https://help.github.com/articles/mapping-geojson-files-on-github)

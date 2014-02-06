@@ -20,7 +20,7 @@ filename: index.md
 * [Notes on Publishing Data through GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
 * [Open Source Hubs In a Box](http://gsa.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
-* [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services.md)
+* [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
 * [Open Data Policy Tips and Tricks](https://github.com/gbinal/Open-Data-Policy---Tricks-and-Tips/)

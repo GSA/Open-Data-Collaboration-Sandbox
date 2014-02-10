@@ -8,6 +8,7 @@ filename: github_presentations.md
   
 ## Draft Products
 * [Basic Presentation Hub using HTML](https://github.com/gbinal/Presentations)
+* [Note alternates here](https://github.com/USG-Website-Templates)
 
 ## Loose Notes
 

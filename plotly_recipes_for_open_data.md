@@ -12,13 +12,15 @@ Plot.ly offers very low barrier of adoption for government agencies who would li
 
 ## How to Contribute
 
-For the purposes of this project, an important characteristic of plot.ly is the ability to easily consume a hosted data file by merely appending the dataset's URL to a plot.ly URL, e.g. https://plot.ly/external/?url=http://www.socialsecurity.gov/open/data/fy12-onward-rib-filed-via-internet.csv.
+For the purposes of this project, an important characteristic of plot.ly is the ability to easily consume a hosted data file by merely appending the dataset's URL to a plot.ly URL, e.g. `https://plot.ly/external/?url=http://www.socialsecurity.gov/open/data/fy12-onward-rib-filed-via-internet.csv`.    
+  
+The goal is to reduce any sample datasets down to a small but representative version of itself.  If a working example is fed by a dataset with 10,000 rows but the example can just as readily be conveyed with a dataset that consists of the first 5 rows only, then reducing the dataset's complexity, the example can be made all the more digestible and readily repurposed by new users.    
 
+Please add in examples below, using this format:
 
-_Example Dataset, Hosted - []
+* [Name of Dataset](url of hosted dataset) - ([Plot.ly - Name of  Chart](url of resultant chart))  
 
 
 ## Recipes 
 
 
-* [Name]() - ([Plot.ly chart]())

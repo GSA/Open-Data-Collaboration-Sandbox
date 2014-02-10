@@ -10,7 +10,7 @@ filename: index.md
 
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
-* [/Data Hub in a Box](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-in-a-box)
+* [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  

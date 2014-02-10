@@ -21,6 +21,7 @@ filename: index.md
 * [Notes on Publishing Data through GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
 * [Open Data Policy Tips and Tricks](https://github.com/gbinal/Open-Data-Policy---Tricks-and-Tips/)
 * [Open Source Hubs In a Box](http://gsa.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
+* [Plot.ly Recipes for Open Data](http://gsa.github.io/Open-Data-Collaboration-Sandbox/plotly_recipes_for_open_data)
 * [Simple-API](https://github.com/GSA-Simple-API)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Terms of Service for third-party tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)

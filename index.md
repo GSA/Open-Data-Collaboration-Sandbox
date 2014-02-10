@@ -25,9 +25,8 @@ filename: index.md
 * [Simple-API](https://github.com/GSA-Simple-API)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Terms of Service for third-party tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
+* [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
 * [Very Simple API](https://github.com/GSA/Very-Simple-API)
-
-
 
 
 ## How To Contribute

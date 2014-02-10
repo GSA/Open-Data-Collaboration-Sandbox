@@ -22,3 +22,7 @@ title: Data-Hub-Template
 * Curated and Featured Data
 * Subscription Engine
 * Links to Developer Hub, Data.gov, Component Data Hubs, Open Source, etc. 
+
+### Notes
+* [Early efforts here](https://github.com/USG-Website-Templates)
+

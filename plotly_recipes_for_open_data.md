@@ -18,7 +18,7 @@ The goal is to reduce any sample datasets down to a small but representative ver
 
 Please add in examples below, using this format:
 
-* [Name of Dataset](url of hosted dataset) - ([Plot.ly - Name of  Chart](url of resultant chart))  
+* [Name of Dataset](http://www.example.com/dataset.csv) - ([Plot.ly - Name of  Chart](https://plot.ly/external/?url=http://www.example.com/dataset.csv))  
 
 
 ## Recipes 

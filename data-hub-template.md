@@ -1,11 +1,10 @@
 ---
 published: true
-permalink: /data-hub-in-a-box/
+permalink: /data-hub-template/
 layout: default
-filename: data-hub-in-a-box.md
-title: Data-Hub-In-A-Box
+filename: data-hub-template.md
+title: Data-Hub-Template
 ---
-
 
 ### Users to Serve
 * Outside Developers
@@ -13,7 +12,6 @@ title: Data-Hub-In-A-Box
 * Journalists
 * Academics
 * Random Joes
-
 
 ### Components
 * What is this? Material  

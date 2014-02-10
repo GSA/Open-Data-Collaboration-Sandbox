@@ -22,5 +22,7 @@ Please add in examples below, using this format:
 
 
 ## Recipes 
+* [Total Spending by Sector](https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv)- ([Plot.ly - Name of  Chart](https://plot.ly/external/?url=https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv))  
+
 
 

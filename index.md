@@ -14,6 +14,7 @@ filename: index.md
 * [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
+* [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)
 * [GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks)
 * [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)
 * [Microsite Template](https://github.com/GSA/Template-Microsite/)

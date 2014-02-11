@@ -8,6 +8,7 @@ filename: index.md
   
 ## Projects
 
+* [API Recipes](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_recipes)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)

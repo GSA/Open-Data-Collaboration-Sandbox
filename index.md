@@ -4,7 +4,6 @@ permalink: /
 layout: default
 filename: index.md
 ---
-
   
 ## Projects
 
@@ -28,6 +27,7 @@ filename: index.md
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Terms of Service for third-party tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
 * [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
+* [Using Custom Domains with GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/using_custom_domains_with_github)
 * [Very Simple API](https://github.com/GSA/Very-Simple-API)
 
 

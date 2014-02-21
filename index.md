@@ -10,6 +10,7 @@ filename: index.md
 * [API Recipes](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_recipes)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
+* [Create a Free API with Apigee](http://gsa.github.io/Open-Data-Collaboration-Sandbox/create_a_free_api_with_apigee/)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)

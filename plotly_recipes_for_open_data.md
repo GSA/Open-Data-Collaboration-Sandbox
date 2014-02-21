@@ -16,10 +16,28 @@ For the purposes of this project, an important characteristic of plot.ly is the 
   
 The goal is to reduce any sample datasets down to a small but representative version of itself.  If a working example is fed by a dataset with 10,000 rows but the example can just as readily be conveyed with a dataset that consists of the first 5 rows only, then reducing the dataset's complexity, the example can be made all the more digestible and readily repurposed by new users.    
 
+
+## Scenarios 
+
+1. [Fits](https://plot.ly/fits) (original dataset)
+
+
+2. 
+
+Error bars
+Graph types and styling
+How to make a graph
+Plotly and Python
+Making a boxplot
+Histogram
+WebPlotDigitizer
+
+
+
+
 Please add in examples below, using this format:
 
 * [Name of Dataset](http://www.example.com/dataset.csv) - ([Plot.ly - Name of  Chart](https://plot.ly/external/?url=http://www.example.com/dataset.csv))  
-
 
 ## Recipes 
 * [Total Spending by Sector](https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv)- ([Plot.ly - Initial Screen](https://plot.ly/external/?url=https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv))  

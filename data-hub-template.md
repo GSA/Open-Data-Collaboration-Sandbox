@@ -25,4 +25,5 @@ title: Data-Hub-Template
 
 ### Notes
 * [Early efforts here](https://github.com/USG-Website-Templates)
+* [Great template for OS](http://if.io/open-source-program-template/)
 

@@ -11,6 +11,7 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 
 ## Finished Examples
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)
+* [Open Source Hub](https://github.com/virtix/open-source-program-template)
 
  
 ## In Development 

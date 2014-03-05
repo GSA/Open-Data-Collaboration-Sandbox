@@ -18,7 +18,7 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 * [V. Simple API](https://github.com/GSA/Very-Simple-API)
 * [Presentations](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/github_presentations)
 * [Presentations (Hub with HTML-powered presentations)](https://github.com/gbinal/Presentations)
-* [/Data Hub](http://gsa-ocsit.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
+* [/Data Hub](https://github.com/GSA/open-data-program-template)
 * [/Developer Hub](https://github.com/gbinal/Developer-Hub-in-a-Box)
 
 

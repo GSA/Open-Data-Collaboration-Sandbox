@@ -7,6 +7,7 @@ filename: index.md
   
 ## Projects
 
+* [API Index](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index)
 * [API Recipes](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_recipes)
 * [API Resources](https://github.com/GSA/API-Resources)
 * [API Standards, US Government](https://github.com/GSA/API-Resources/blob/master/US_Government_API_Standards.md)

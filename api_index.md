@@ -1,3 +1,9 @@
+ ---
+published: true
+permalink: /api_index/
+layout: default
+filename: api_index.md
+---
 
 ## Index of API Resources for Government 
 * [APIs 101 - An Intro]() 

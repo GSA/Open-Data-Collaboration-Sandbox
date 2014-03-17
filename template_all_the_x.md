@@ -6,8 +6,10 @@ filename: template_all_the_x.md
 ---
 
 ## Goal
-
 Create a growing series of v. simple projects that can be reproduced with no effort over and over.  
+
+## In Browser Cloning 
+* https://copy-to.herokuapp.com/ (Note ability to [deep link](https://copy-to.herokuapp.com/benbalter/copy-to), too)
 
 ## Finished Examples
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)

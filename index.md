@@ -11,6 +11,7 @@ filename: index.md
 * [API Recipes](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_recipes)
 * [API Resources](https://github.com/GSA/API-Resources)
 * [API Standards, US Government](https://github.com/GSA/API-Resources/blob/master/US_Government_API_Standards.md)
+* [API Working Groups - A model for departments and agencies](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_working_group/)
 * [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
 * [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
 * [Create a Free API with Apigee](http://gsa.github.io/Open-Data-Collaboration-Sandbox/create_a_free_api_with_apigee/)

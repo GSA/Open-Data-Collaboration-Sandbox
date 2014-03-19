@@ -11,7 +11,7 @@ filename: api_index.md
 * [DC API Meetup]()
 * [Developer Hub Template]()
 * [Maturity Model]()
-* [Template API Terms of Service]() 
+* [Template API Terms of Service](https://github.com/GSA/API-Resources/blob/master/developer_tos/model_tos.md) 
 * [US Government API listserve]()
 
 

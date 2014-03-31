@@ -1,3 +1,10 @@
+---
+published: true
+permalink: /public_analytics
+layout: default
+filename: public_analytics.md
+---
+
 
 ## Background
 

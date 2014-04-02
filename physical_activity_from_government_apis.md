@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /physical_activity_from_government_apis
+permalink: /physical_activity_from_government_apis/
 layout: default
 filename: physical_activity_from_government_apis.md
 ---

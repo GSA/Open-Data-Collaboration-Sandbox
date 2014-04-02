@@ -8,7 +8,7 @@ filename: physical_activity_from_government_apis.md
 
 ## Background
 
-What are ways that government APIs can be used with the Internet of Things?  How can government APIs apply in the physical World?  
+What are ways that government APIs can be used with the Internet of Things?  How can government APIs apply in the physical World?   
 
 ## Specific Examples 
 * [Specific Recipes listed on the IFTTT Channel](https://ifttt.com/sunlightfoundation)

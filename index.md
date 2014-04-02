@@ -5,6 +5,7 @@ layout: default
 filename: index.md
 ---
   
+  physical_activity_from_government_apis.md
 ## Projects
 
 * [API Index](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index)
@@ -29,6 +30,7 @@ filename: index.md
 * [Open Source Hubs In a Box](http://gsa.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
 * [Opening an Agency's Website Analytics](http://gsa.github.io/Open-Data-Collaboration-Sandbox/public_analytics)
 * [Plot.ly Recipes for Open Data](http://gsa.github.io/Open-Data-Collaboration-Sandbox/plotly_recipes_for_open_data)
+* [Physical Activity From Government APIs](http://gsa.github.io/Open-Data-Collaboration-Sandbox/physical_activity_from_government_apis)
 * [Simple-API](https://github.com/GSA-Simple-API)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Terms of Service for third-party tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)

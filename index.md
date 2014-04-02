@@ -5,7 +5,6 @@ layout: default
 filename: index.md
 ---
   
-  physical_activity_from_government_apis.md
 ## Projects
 
 * [API Index](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_index)

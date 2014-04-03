@@ -7,35 +7,26 @@ filename: index.md
   
 ## Projects
 
-* [API Index](https://github.com/18F/API-All-the-X)
-* [API Recipes](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_recipes)
+* [New! Combined API Index](https://github.com/18F/API-All-the-X)  
+
 * [API Resources](https://github.com/GSA/API-Resources)
 * [API Standards, US Government](https://github.com/GSA/API-Resources/blob/master/US_Government_API_Standards.md)
-* [API Working Groups - A model for departments and agencies](http://gsa.github.io/Open-Data-Collaboration-Sandbox/api_working_group/)
-* [API Usability Testing](http://graybrooks.com/API-Usability-Testing/)
-* [Content APIs](https://github.com/GSA/.Gov-Content-as-an-API)
-* [Create a Free API with Apigee](http://gsa.github.io/Open-Data-Collaboration-Sandbox/create_a_free_api_with_apigee/)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
-* [Developer Feedback for Government APIs](https://github.com/GSA/Developer-Feedback-for-Government-APIs)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)
 * [GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks)
 * [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)
 * [Microsite Template](https://github.com/GSA/Template-Microsite/)
-* [New API catalog](https://github.com/GSA/slash-developer-pages/blob/master/redesign_of_catalog.md)
 * [Notes on Publishing Data through GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)
 * [Open Data Policy Tips and Tricks](https://github.com/gbinal/Open-Data-Policy---Tricks-and-Tips/)
 * [Open Source Hubs In a Box](http://gsa.github.io/Open-Data-Collaboration-Sandbox/open_source_hubs_in_a_box/)
 * [Opening an Agency's Website Analytics](http://gsa.github.io/Open-Data-Collaboration-Sandbox/public_analytics)
 * [Plot.ly Recipes for Open Data](http://gsa.github.io/Open-Data-Collaboration-Sandbox/plotly_recipes_for_open_data)
 * [Physical Activity From Government APIs](http://gsa.github.io/Open-Data-Collaboration-Sandbox/physical_activity_from_government_apis/)
-* [Simple-API](https://github.com/GSA-Simple-API)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
-* [Terms of Service for third-party tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/API-TOS-project/)
 * [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
 * [Using Custom Domains with GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/using_custom_domains_with_github)
-* [Very Simple API](https://github.com/GSA/Very-Simple-API)
 
 
 ## How To Contribute

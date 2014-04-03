@@ -9,8 +9,6 @@ filename: index.md
 
 * [New! Combined API Index](https://github.com/18F/API-All-the-X)  
 
-* [API Resources](https://github.com/GSA/API-Resources)
-* [API Standards, US Government](https://github.com/GSA/API-Resources/blob/master/US_Government_API_Standards.md)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  

@@ -10,6 +10,7 @@ filename: index.md
 * [New! Combined API Index](https://github.com/18F/API-All-the-X)  
 
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
+* [Consuming JSON in HTML in GitHub](http://graybrooks.com/mustache-test-1/)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)

@@ -27,7 +27,7 @@ filename: index.md
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
 * [Using Custom Domains with GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/using_custom_domains_with_github)
-* [Websites Basics Checker](https://github.com/GSA/Open-Data-Collaboration-Sandbox/blob/gh-pages/website_basics_checker.md)
+* [Websites Basics Checker](https://github.com/gbinal/Basics-for-.Gov-Websites---A-Project)
 
 ## How To Contribute
 

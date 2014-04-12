@@ -1,5 +1,4 @@
 
-
 ## What does a fully fleshed out open source program for government look like?  
 
 ### Communities to integrate/emulate
@@ -12,5 +11,8 @@
 * Community 
  * Meetup
  * Drive a greater government presence at existing meetups 
+ * Drive a greater government presence at existing meetups 
+ * [Hackathons]()
+ * [Listserve]()
 * Activism/Outreach 
 * Scoreboard for Tracking Progress 

@@ -26,4 +26,5 @@ title: Data-Hub-Template
 ### Notes
 * [Early efforts here](https://github.com/USG-Website-Templates)
 * [Great template for OS](http://if.io/open-source-program-template/) and an [Open Data fork of it](https://github.com/GSA/open-data-program-template) 
+* [DOI effort here](http://usinterior.github.io/doi-data-hub/)
 

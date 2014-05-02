@@ -11,6 +11,7 @@ filename: index.md
 
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Consuming JSON in HTML in GitHub](http://graybrooks.com/mustache-test-1/)
+* [Coworking Notes](https://github.com/18F/Digital_Coworking)
 * [Data Improvement Welcome Center](https://github.com/gbinal/Data-Improvement-Welcome-Center)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  

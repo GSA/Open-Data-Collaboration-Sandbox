@@ -12,6 +12,7 @@ Create a growing series of v. simple projects that can be reproduced with no eff
 * https://copy-to.herokuapp.com/ (Note ability to [deep link](https://copy-to.herokuapp.com/benbalter/copy-to), too)
 
 ## Finished Examples
+* [Advanced Microsite](https://github.com/USG-Website-Templates/microsite-template)
 * [Microsite](https://github.com/GSA-OCSIT/Template-Microsite/)
 * [Open Source Hub](https://github.com/virtix/open-source-program-template)
 

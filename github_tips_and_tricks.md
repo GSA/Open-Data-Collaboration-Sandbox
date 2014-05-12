@@ -5,6 +5,7 @@ layout: default
 filename: github_tips_and_tricks.md
 ---
 
+* [MS Word -> Markdown Website](http://word-to-markdown.herokuapp.com/)
 * [Google Docs -> Markdown Script](https://github.com/mangini/gdocs2md)
 * [Google Spreadsheets -> Markdown](https://github.com/jlord/sheetdown)
 * [Create Tables in MarkDown](http://www.tablesgenerator.com/markdown_tables)

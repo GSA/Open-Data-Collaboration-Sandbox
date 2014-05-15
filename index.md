@@ -9,6 +9,7 @@ filename: index.md
 
 * [New! Combined API Index](https://github.com/18F/API-All-the-X)  
 
+* [18F Directions](http://gsa.github.io/Open-Data-Collaboration-Sandbox/18f_directions#directions-to-18f)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Consuming JSON in HTML in GitHub](http://graybrooks.com/mustache-test-1/)
 * [Coworking Notes](https://github.com/18F/Digital_Coworking)

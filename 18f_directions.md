@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: no_header
 ---
 
 ## Directions to 18F

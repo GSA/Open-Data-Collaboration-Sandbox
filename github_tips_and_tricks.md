@@ -11,6 +11,7 @@ filename: github_tips_and_tricks.md
 * [Create Tables in MarkDown](http://www.tablesgenerator.com/markdown_tables)
 * [Clone GitHub Repos in the Browser](https://github.com/benbalter/copy-to)
 * [Upload Files to GitHub in the Browser](https://github.com/benbalter/github-uploader)
+* [Organization Authentication](https://github.com/benbalter/add-to-org)
 
 
 ## Basics 

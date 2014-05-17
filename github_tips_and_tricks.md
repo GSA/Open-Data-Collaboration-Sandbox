@@ -12,7 +12,7 @@ filename: github_tips_and_tricks.md
 * [Clone GitHub Repos in the Browser](https://github.com/benbalter/copy-to)
 * [Upload Files to GitHub in the Browser](https://github.com/benbalter/github-uploader)
 * [Organization Authentication](https://github.com/benbalter/add-to-org)
-
+* [Visualization of GitHub Hosted CSVs](http://blog.statwing.com/visualize-any-public-csv-on-github-in-a-few-clicks/)
 
 ## Basics 
 * [Hello World guide](https://guides.github.com/activities/hello-world/)

@@ -17,7 +17,7 @@ title: NDOCH 2014
 ### Projects
 * [NASA Asteriod Detection](http://hackforchange.org/challenges/asteroid-detection-network/)
 * [HUD/DOT Location Affordability Portal](http://hackforchange.org/challenges/easy-access-to-location-affordability-data/)
-* []()
+* [EPA Harmful Algal Bloom](http://hackforchange.org/challenges/harmful-algal-bloom-hab/)
 * []()
 * []()
 * []()

@@ -21,6 +21,7 @@ title: NDOCH 2014
 * [Dept. of Education API RFI](http://hackforchange.org/challenges/innovative-access-to-education-data/)
 * [NOAA/FEMA/NASA Coastal Innudation](http://hackforchange.org/challenges/coastal-inundation-in-your-community/)
 * [Safety Data Challenge] (http://hackforchange.org/challenges/safety-data-challenge/)
+* [Highway Performance Monitoring System Travel Challenge] (http://hackforchange.org/challenges/highway-performance-monitoring-system-travel-challenge/)
 
 ### Links
 * [Blogpost on Federal Involvement](https://www.digitalgov.gov/2014/05/15/the-federal-list-of-hackforchange-projects/)

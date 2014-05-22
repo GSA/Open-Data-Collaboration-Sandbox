@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /website_examples
+permalink: /website_examples/
 layout: default
 filename: website_examples.md
 ---

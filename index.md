@@ -31,6 +31,7 @@ filename: index.md
 * [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
 * [Using Custom Domains with GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/using_custom_domains_with_github)
 * [Websites Basics Checker](https://github.com/gbinal/Basics-for-.Gov-Websites---A-Project)
+* [Examples of Websites Hosted As GitHub Pages](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)
 
 ## How To Contribute
 

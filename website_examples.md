@@ -15,17 +15,22 @@ List of example websites that are hosted in GitHub Pages.  *([edit](https://gith
 * [Green Button](green-button.github.io)  
 * [Blue Button](http://blue-button.github.io/)  
 * [Pillbox](https://hhs.github.io/pillbox/)  
-* [OpenFDA](http://open.fda.gov/)  
+* [OpenFDA](http://open.fda.gov/) - *[code]()*    
 * [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
-* [API.Data.gov](http://api.data.gov/)
-* []()  
+* [API.Data.gov](http://api.data.gov/) - *[code](https://github.com/GSA/api.data.gov)*  
+* [GSA Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog/) 
+* [VA Data Hub](http://va-data.github.io/va-developer/)
 
 
 ## Non-Government 
 
-* [Ben.Balter.com]()  
-* [API Evangelist]()  
+* [Ben.Balter.com](http://ben.balter.com) - *[code](https://github.com/benbalter/benbalter.github.com)*  
+* [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  
 * [whatcanidoformozilla.org](http://whatcanidoformozilla.org)  
+* [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*
+* [Choosealicense.com](http://choosealicense.com/) - *[code](https://github.com/github/choosealicense.com)*
+* [twitter.github.io](http://twitter.github.io/)  
+* [OpenGovDC](https://developmentseed.github.io/OpenGovDC.com) - *[code](https://github.com/developmentseed/OpenGovDC.com)*
 * [JosephMosby.com](http://josephmosby.com/) - *[code](https://github.com/josephmosby/josephmosby.com)*  
 * [alexcican.com](http://alexcican.com)  - *[code](https://github.com/alexcican/alexcican.github.com)*  
 * [sglyon.com/hugo_gh_blog/](http://sglyon.com/hugo_gh_blog/) - *[code](https://github.com/spencerlyon2/hugo_gh_blog)*  
@@ -45,6 +50,13 @@ List of example websites that are hosted in GitHub Pages.  *([edit](https://gith
 * [ghbtns.com](http://ghbtns.com/) - *[code](https://github.com/mdo/github-buttons/tree/gh-pages)*
 * [wtfhtmlcss.com](http://wtfhtmlcss.com/) - *[code](https://github.com/mdo/wtf-html-css)*
 * [Polish GameDev.js](http://polish.gamedevjs.com/) - *[code](https://github.com/EnclaveGames/Polish-Gamedevjs)*
+* [http://tylerjfisher.com/](tylerfisher.github.io) - *[code](tylerfisher.github.io)*
+* []() - *[code]()*
+* []() - *[code]()*
+* []() - *[code]()*
+* []() - *[code]()*
+* []() - *[code]()*
+* []() - *[code]()*
 * []() - *[code]()*
 
 

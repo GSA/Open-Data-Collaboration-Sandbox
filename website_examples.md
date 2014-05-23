@@ -5,7 +5,7 @@ layout: default
 filename: website_examples.md
 ---
   
-List of example websites that are hosted in GitHub Pages.  *([edit](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
+List of example websites that are hosted in GitHub Pages.  *([edit this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
 
 ## Government 
 

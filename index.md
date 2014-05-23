@@ -7,8 +7,7 @@ filename: index.md
   
 ## Projects
 
-* [New! Combined API Index](https://github.com/18F/API-All-the-X)  
-
+* **[Combined API Index](https://18f.github.io/API-All-the-X)**  
 * [18F Directions](http://gsa.github.io/Open-Data-Collaboration-Sandbox/18f_directions)
 * [/Data Hub Template](http://gsa.github.io/Open-Data-Collaboration-Sandbox/data-hub-template)
 * [Consuming JSON in HTML in GitHub](http://graybrooks.com/mustache-test-1/)
@@ -18,6 +17,7 @@ filename: index.md
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)
 * [GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks)
+* [IfGovThenThat](https://github.com/18f/ifgovthenthat)
 * [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)
 * [Microsite Template](https://github.com/GSA/Template-Microsite/)
 * [Notes on Publishing Data through GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/publishing-data/)

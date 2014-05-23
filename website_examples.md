@@ -33,6 +33,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*
 * [Choosealicense.com](http://choosealicense.com/) - *[code](https://github.com/github/choosealicense.com)*
 * [twitter.github.io](http://twitter.github.io/)  
+* [theunitedstates.io/licensing](http://theunitedstates.io/licensing) - *[code](https://github.com/unitedstates/licensing)*
 * [OpenGovDC](https://developmentseed.github.io/OpenGovDC.com) - *[code](https://github.com/developmentseed/OpenGovDC.com)*
 * [JosephMosby.com](http://josephmosby.com/) - *[code](https://github.com/josephmosby/josephmosby.com)*  
 * [alexcican.com](http://alexcican.com)  - *[code](https://github.com/alexcican/alexcican.github.com)*  

@@ -1,8 +1,5 @@
 ---
-published: true
-permalink: /data-hub-template/
 layout: default
-filename: data-hub-template.md
 title: Data-Hub-Template
 ---
 

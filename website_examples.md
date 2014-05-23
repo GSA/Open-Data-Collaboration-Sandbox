@@ -57,7 +57,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [dccode.org](http://dccode.org/) - *[code](https://github.com/openlawdc/openlawdc.github.com)*
 * [codefordc.org](http://codefordc.org/) - *[code](https://github.com/codefordc/codefordc-2.0)*
 * [ancfinder.org](http://ancfinder.org/) - *[code](https://github.com/codefordc/ancbrigade)*
-* []() - *[code]()*
+* [http://joewiz.org/](http://joewiz.org) - *[code](https://github.com/joewiz/joewiz.github.io)*
 * []() - *[code]()*
 * []() - *[code]()*
 * []() - *[code]()*

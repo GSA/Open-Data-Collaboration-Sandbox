@@ -32,8 +32,17 @@ List of example websites that are hosted in GitHub Pages.
 * [laurenorsini.github.io/](http://laurenorsini.github.io/)  - *[code]()*  
 * [stevefrancia.com](http://stevefrancia.com/)  - *[code](https://github.com/spf13/spf13.github.com)*  
 * [spf13.com](http://spf13.com/)  - *[code](https://github.com/spf13/spf13.com)*  
-* []()  - *[code]()*  
-* []()  - *[code]()*  
+* [mdo.github.io/rem-test](http://mdo.github.io/rem-test/)  - *[code](http://mdo.github.io/rem-test/)*  
+* [mdo.github.io/code-guide](http://mdo.github.io/code-guide/)  - *[code](https://github.com/mdo/code-guide)*  
+* [Preboot](http://getpreboot.com/) - *[code](https://github.com/mdo/preboot/tree/gh-pages)*
+* [AndHyde](http://andhyde.com/) - *[code](https://github.com/mdo/hyde/tree/gh-pages)*
+* [mdo.github.io/table-grid](http://mdo.github.io/table-grid/) - *[code](https://github.com/mdo/table-grid)*
+* [mdo.github.io/css-perf](http://mdo.github.io/css-perf/) - *[code](https://github.com/mdo/css-perf)*
+* [wtfforms.com](http://wtfforms.com/) - *[code](https://github.com/mdo/wtf-forms/tree/gh-pages)*
+* [ghbtns.com](http://ghbtns.com/) - *[code](https://github.com/mdo/github-buttons/tree/gh-pages)*
+* [wtfhtmlcss.com](http://wtfhtmlcss.com/) - *[code](https://github.com/mdo/wtf-html-css)*
+* []() - *[code]()*
+
 
 
 ## Potential Resources

@@ -5,7 +5,7 @@ layout: default
 filename: website_examples.md
 ---
   
-List of example websites that are hosted in GitHub Pages.  
+List of example websites that are hosted in GitHub Pages.  *([edit](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
 
 ## Government 
 
@@ -16,6 +16,8 @@ List of example websites that are hosted in GitHub Pages.
 * [Blue Button](http://blue-button.github.io/)  
 * [Pillbox](https://hhs.github.io/pillbox/)  
 * [OpenFDA](http://open.fda.gov/)  
+* [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
+* [API.Data.gov](http://api.data.gov/)
 * []()  
 
 

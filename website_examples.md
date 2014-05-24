@@ -20,7 +20,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [API.Data.gov](http://api.data.gov/) - *[code](https://github.com/GSA/api.data.gov)*  
 * [GSA Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog/) 
 * [VA Data Hub](http://va-data.github.io/va-developer/)
-* []() - *[code]()*
+* [API Umbrella](http://nrel.github.io/api-umbrella/) - *[code](https://github.com/NREL/api-umbrella/tree/gh-pages)*
 * []() - *[code]()*
 * []() - *[code]()*
 

@@ -33,6 +33,17 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Canada's Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html) - *[code](https://github.com/wet-boew/wet-boew)*
 * [whatcanidoformozilla.org](http://whatcanidoformozilla.org)  
 * [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*
+* [shopify.github.io](http://shopify.github.io/) - *[code](https://github.com/Shopify/shopify.github.com)*
+* [blog.balancedpayments.com](http://blog.balancedpayments.com) - *[code](https://github.com/balanced/balanced.github.com)*
+* [guardian.github.io](http://guardian.github.io/developers/) - *[code](https://github.com/guardian/guardian.github.com)*
+* [gilt.github.io](http://gilt.github.io/) - *[code](https://github.com/gilt/gilt.github.com)*
+* [artsy.github.io/](http://artsy.github.io/) - *[code](https://github.com/artsy/artsy.github.com)*
+* [cytoscape.github.io](http://cytoscape.github.io/) - *[code](https://github.com/cytoscape/cytoscape.github.com)*
+* [harvesthq.github.io](http://harvesthq.github.com) - *[code](https://github.com/harvesthq/harvesthq.github.com)*
+* [square.github.io](http://square.github.io/) - *[code](https://github.com/square/square.github.io)*
+* [esri.github.io](http://esri.github.io/) - *[code](https://github.com/Esri/esri.github.com)*
+* [netflix.github.io](http://netflix.github.io/) - *[code](https://github.com/Netflix/netflix.github.com)*
+* [adobe.github.io](http://adobe.github.io) - *[code](https://github.com/adobe/adobe.github.com)*
 * [JSON-to-CSV converter](http://konklone.io/json/) - *[code](https://github.com/konklone/json)*
 * [Choosealicense.com](http://choosealicense.com/) - *[code](https://github.com/github/choosealicense.com)*
 * [twitter.github.io](http://twitter.github.io/)  

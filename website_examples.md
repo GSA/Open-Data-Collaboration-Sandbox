@@ -30,6 +30,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 
 * [Ben.Balter.com](http://ben.balter.com) - *[code](https://github.com/benbalter/benbalter.github.com)*  
 * [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  
+* [Canada's Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html) - *[code](https://github.com/wet-boew/wet-boew)*
 * [whatcanidoformozilla.org](http://whatcanidoformozilla.org)  
 * [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*
 * [JSON-to-CSV converter](http://konklone.io/json/) - *[code](https://github.com/konklone/json)*
@@ -37,6 +38,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [twitter.github.io](http://twitter.github.io/)  
 * [theunitedstates.io/licensing](http://theunitedstates.io/licensing) - *[code](https://github.com/unitedstates/licensing)*
 * [OpenGovDC](https://developmentseed.github.io/OpenGovDC.com) - *[code](https://github.com/developmentseed/OpenGovDC.com)*
+* [hackdaymanifesto.com](http://hackdaymanifesto.github.com)
 * [JosephMosby.com](http://josephmosby.com/) - *[code](https://github.com/josephmosby/josephmosby.com)*  
 * [alexcican.com](http://alexcican.com)  - *[code](https://github.com/alexcican/alexcican.github.com)*  
 * [sglyon.com/hugo_gh_blog/](http://sglyon.com/hugo_gh_blog/) - *[code](https://github.com/spencerlyon2/hugo_gh_blog)*  

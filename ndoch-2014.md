@@ -22,6 +22,9 @@ title: NDOCH 2014
 * [NOAA/FEMA/NASA Coastal Innudation](http://hackforchange.org/challenges/coastal-inundation-in-your-community/)
 * [Safety Data Challenge](http://hackforchange.org/challenges/safety-data-challenge/)
 * [Highway Performance Monitoring System Travel Challenge](http://hackforchange.org/challenges/highway-performance-monitoring-system-travel-challenge/)
+* [FEMA Interactive API Explorer](http://hackforchange.org/challenges/interactive-api-explorer/)
+* [USPTO Innovation Challenge - Patent Application Publication Notification System](http://hackforchange.org/challenges/uspto-innovation-challenge-patent-application-publication-notification-system/)
+* [USPTO Innovation Challenge – Trademark Notification System](http://hackforchange.org/challenges/uspto-innovation-challenge-trademark-notification-system/)
 
 ### Links
 * [Blogpost on Federal Involvement](https://www.digitalgov.gov/2014/05/15/the-federal-list-of-hackforchange-projects/)

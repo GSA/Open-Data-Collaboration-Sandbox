@@ -17,6 +17,7 @@ filename: index.md
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)
+* [GitHub Demos](https://github.com/18F/github-demos)
 * [GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks)
 * [IfGovThenThat](https://github.com/18f/ifgovthenthat)
 * [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)

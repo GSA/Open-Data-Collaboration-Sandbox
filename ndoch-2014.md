@@ -9,7 +9,7 @@ title: NDOCH 2014
 ## Ways to Help
 
 ### Attend an Event
-* [Transparency Camp]() - Friday and Saturday
+* [Transparency Camp](http://transparencycamp.org/) - Friday and Saturday
 * [NSF event](http://hackforchange.org/events/northern-virginia-national-day-of-civic-hacking/) - Saturday only; Arlington, VA
 * [Census event](http://hackforchange.org/events/lean-data-product-development-with-us-census/) - Evening of Tuesday May 27, Washington  DC
 * [HHS HealthDataPalooza](http://healthdatapalooza.org/) - Sunday-Tuesday, Washington, DC - **Note need to register**
@@ -20,8 +20,8 @@ title: NDOCH 2014
 * [EPA Harmful Algal Bloom](http://hackforchange.org/challenges/harmful-algal-bloom-hab/)
 * [Dept. of Education API RFI](http://hackforchange.org/challenges/innovative-access-to-education-data/)
 * [NOAA/FEMA/NASA Coastal Innudation](http://hackforchange.org/challenges/coastal-inundation-in-your-community/)
-* [Safety Data Challenge] (http://hackforchange.org/challenges/safety-data-challenge/)
-* [Highway Performance Monitoring System Travel Challenge] (http://hackforchange.org/challenges/highway-performance-monitoring-system-travel-challenge/)
+* [Safety Data Challenge](http://hackforchange.org/challenges/safety-data-challenge/)
+* [Highway Performance Monitoring System Travel Challenge](http://hackforchange.org/challenges/highway-performance-monitoring-system-travel-challenge/)
 
 ### Links
 * [Blogpost on Federal Involvement](https://www.digitalgov.gov/2014/05/15/the-federal-list-of-hackforchange-projects/)

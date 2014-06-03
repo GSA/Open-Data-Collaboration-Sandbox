@@ -84,5 +84,25 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 
 * http://hugo.spf13.com/
 
+## Need to Process
+http://cartodb.github.io/torque/
+http://cartodb.github.io/odyssey.js/
+http://ricostacruz.com/flatdoc/
+http://cartodb.github.io/oldweather_wwi/
+http://cartodb.github.io/academy/
+http://nmrugg.github.io/LZMA-JS/
+http://ivaynberg.github.io/select2/
+
+
+developmentseed.github.io/census-tracts/
+https://CartoDB.github.io/real-time-map
+mapbox.github.io/wax
+https://www.mapbox.com/carto
+http://cartodb.github.io/bcn_traffic_map/
+CartoDB.github.io/tweets_mtvhottest
+http://cartodb.github.io/nyc_schools/
+http://ericspry.github.io/mmba-first-viz/#4/38.82/-94.96
+
+
 
 

@@ -86,6 +86,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 
 ## Need to Process
 http://cartodb.github.io/torque/  
+http://fcc.github.io/pirateaction2/  
 http://cartodb.github.io/odyssey.js/  
 http://ricostacruz.com/flatdoc/  
 http://cartodb.github.io/oldweather_wwi/  

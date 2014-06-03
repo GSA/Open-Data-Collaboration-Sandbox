@@ -32,6 +32,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  
 * [Canada's Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html) - *[code](https://github.com/wet-boew/wet-boew)*
 * [whatcanidoformozilla.org](http://whatcanidoformozilla.org)  
+* [open-contracting.github.io](http://open-contracting.github.io/)
 * [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*
 * [shopify.github.io](http://shopify.github.io/) - *[code](https://github.com/Shopify/shopify.github.com)*
 * [blog.balancedpayments.com](http://blog.balancedpayments.com) - *[code](https://github.com/balanced/balanced.github.com)*

@@ -17,3 +17,7 @@ title: GeoJSON in GitHub
 * Note several examples [here](https://github.com/stars/benbalter)
 * Note updates in [blog post here](https://help.github.com/articles/mapping-geojson-files-on-github) and [here](https://github.com/blog/1772-diffable-more-customizable-maps)
 * [Notes on embedding](https://help.github.com/articles/mapping-geojson-files-on-github)
+
+
+### Other maps
+* [CartoDB Torque demo](http://cartodb.github.io/torque/)

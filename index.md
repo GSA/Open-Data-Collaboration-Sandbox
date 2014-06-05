@@ -31,6 +31,7 @@ filename: index.md
 * [Physical Activity From Government APIs](http://gsa.github.io/Open-Data-Collaboration-Sandbox/physical_activity_from_government_apis/)
 * [Template All The X](http://gsa.github.io/Open-Data-Collaboration-Sandbox/template_all_the_x)
 * [Tools Hosted in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github)
+* [Useful Code Snippets](https://github.com/GSA/Open-Data-Collaboration-Sandbox/blob/gh-pages/useful_code_snippets.md)
 * [Using Custom Domains with GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/using_custom_domains_with_github)
 * [Websites Basics Checker](https://github.com/gbinal/Basics-for-.Gov-Websites---A-Project)
 * [Examples of Websites Hosted As GitHub Pages](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)

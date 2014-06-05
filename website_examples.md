@@ -12,7 +12,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Project Open Data](http://project-open-data.github.io)   
 * [/Developer Program](http://18f.github.io/API-All-the-X/)  
 * [CFPB Tech Hub](http://cfpb.github.io)  
-* [Green Button](green-button.github.io)  
+* [Green Button](http://green-button.github.io)  
 * [Blue Button](http://blue-button.github.io/)  
 * [Pillbox](https://hhs.github.io/pillbox/)  
 * [OpenFDA](http://open.fda.gov/) - *[code]()*    

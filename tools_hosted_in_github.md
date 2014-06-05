@@ -23,6 +23,7 @@ Please add to the list below any that comem to mind.
 ## Non-Governmental
 * [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)
 * [Mr. CSV Transformer](http://deepinthecode.github.io/mr-csv-transformer/?targets=xxx,yyy)
+* [JSON to CSV Kit](http://konklone.io/json/)
 
 
 *Candidates - Do these fit the criteria of being hosted and powered in GitHub?*    

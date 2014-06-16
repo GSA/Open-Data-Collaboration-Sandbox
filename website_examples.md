@@ -77,7 +77,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [ancfinder.org](http://ancfinder.org/) - *[code](https://github.com/codefordc/ancbrigade)*
 * [http://joewiz.org/](http://joewiz.org) - *[code](https://github.com/joewiz/joewiz.github.io)*
 * [Agile for Gov](http://www.agileforgov.org/) - *[code](https://github.com/agileforgov/agileforgov.github.io)*
-* []() - *[code]()*
+* [amida-tech.github.io](http://amida-tech.github.io)
 * []() - *[code]()*
 
 

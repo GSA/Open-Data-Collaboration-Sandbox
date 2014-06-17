@@ -49,7 +49,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [JSON-to-CSV converter](http://konklone.io/json/) - *[code](https://github.com/konklone/json)*
 * [Choosealicense.com](http://choosealicense.com/) - *[code](https://github.com/github/choosealicense.com)*
 * [twitter.github.io](http://twitter.github.io/)  
-* [theunitedstates.io/licensing](http://theunitedstates.io/licensing) - *[code](https://github.com/unitedstates/licensing)*
+* [theunitedstates.io](http://theunitedstates.io) - *[code](https://github.com/unitedstates/)*
 * [OpenGovDC](https://developmentseed.github.io/OpenGovDC.com) - *[code](https://github.com/developmentseed/OpenGovDC.com)*
 * [hackdaymanifesto.com](http://hackdaymanifesto.github.com)
 * [JosephMosby.com](http://josephmosby.com/) - *[code](https://github.com/josephmosby/josephmosby.com)*  

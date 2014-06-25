@@ -51,6 +51,9 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [JSON-to-CSV converter](http://konklone.io/json/) - *[code](https://github.com/konklone/json)*
 * [Choosealicense.com](http://choosealicense.com/) - *[code](https://github.com/github/choosealicense.com)*
 * [twitter.github.io](http://twitter.github.io/)  
+* [daneden.github.io/animate.css/](http://daneden.github.io/animate.css/)
+* [Web Animations Demos](http://web-animations.github.io/web-animations-demos/)
+* [visionmedia.github.io/move.js](http://visionmedia.github.io/move.js/)
 * [theunitedstates.io](http://theunitedstates.io) - *[code](https://github.com/unitedstates/)*
 * [OpenGovDC](https://developmentseed.github.io/OpenGovDC.com) - *[code](https://github.com/developmentseed/OpenGovDC.com)*
 * [hackdaymanifesto.com](http://hackdaymanifesto.github.com)

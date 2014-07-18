@@ -26,6 +26,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [FCC Antenna Tower Locator](http://fcc.github.io/am-tower-locator/)
 * [USACE HashDist](http://hashdist.github.io/)
 * [HHS](http://hhs.github.io)
+* [DOI Extractives Data](http://18f.github.io/doi-extractives-data/)
 
 
 ## Non-Government 

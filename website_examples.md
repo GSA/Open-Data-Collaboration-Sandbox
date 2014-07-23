@@ -30,6 +30,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [HHS](http://hhs.github.io)
 * [DOI Extractives Data](http://18f.github.io/doi-extractives-data/)
 * [DOI Data Hub](http://usinterior.github.io/doi-data-hub/)
+* [DigitalGov Search](http://search.digitalgov.gov/) - *[code](https://github.com/GSA/search.digitalgov.gov)*
 
 
 ## Non-Government 

@@ -29,6 +29,8 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [USACE HashDist](http://hashdist.github.io/)
 * [HHS](http://hhs.github.io)
 * [DOI Extractives Data](http://18f.github.io/doi-extractives-data/)
+* [DOI Data Hub](http://usinterior.github.io/doi-data-hub/)
+
 
 ## Non-Government 
 
@@ -114,7 +116,8 @@ http://cartodb.github.io/bcn_traffic_map/
 CartoDB.github.io/tweets_mtvhottest  
 http://cartodb.github.io/nyc_schools/  
 http://ericspry.github.io/mmba-first-viz/#4/38.82/-94.96  
-
+http://18f.github.io/fbopen/
+http://18f.github.io/fbopen-docs/
 
 
 

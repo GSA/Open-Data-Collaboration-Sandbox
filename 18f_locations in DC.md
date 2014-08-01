@@ -18,7 +18,7 @@ There is no 18th and F SW or if there is, it's in the Tidal Basin, close to the 
 
 ## 18th and F Southeast
 
-There is no 18th and F SE.  It would be in Congressional Cemetary, but actually there's not even a F Street in Southeast *until you cross the Anacostia river*.  Lord knows why.  
+There is no 18th and F SE.  It would be in Congressional Cemetary, but actually there's not even a F Street in Southeast *until you cross the Anacostia River*.  Lord knows why.  
 
 ![screen shot 2014-08-01 at 2 02 16 pm](https://cloud.githubusercontent.com/assets/633088/3782820/0c21eb0a-19a6-11e4-8830-ffe90530b329.png)
 

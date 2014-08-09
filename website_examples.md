@@ -67,6 +67,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [alexcican.com](http://alexcican.com)  - *[code](https://github.com/alexcican/alexcican.github.com)*  
 * [sglyon.com/hugo_gh_blog/](http://sglyon.com/hugo_gh_blog/) - *[code](https://github.com/spencerlyon2/hugo_gh_blog)*  
 * [sglyon.com/](http://sglyon.com/) - *[code](https://github.com/spencerlyon2/spencerlyon2.github.io)*  
+* [Open Science Codefest](http://nceas.github.io/open-science-codefest/)
 * [Chimeraarts.org/](http://chimeraarts.org/)  - *[code](https://github.com/chimera/chimeraarts.org)*   
 * [BansheeMediaPlayer.github.io](http://BansheeMediaPlayer.github.io)  
 * [laurenorsini.github.io/](http://laurenorsini.github.io/)  - *[code]()*  

@@ -94,6 +94,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Mexico's Project Open Data](http://mxabierto.github.io/iniciativa-datos-abiertos/)
 * [OWSLib](http://geopython.github.io/OWSLib/)
 * [MetaSearch](http://geopython.github.io/MetaSearch/)
+* [LabHack](http://www.labhack.org/) - *[code](https://www.github.com/codefordayton/labhack)*
 
 
 ## Potential Resources

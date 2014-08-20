@@ -8,6 +8,7 @@ filename: github_presentations.md
   
 ## Re-Usable Templates
 * [Presentation 1](http://usg-website-templates.github.io/presentation/) - *[code](https://github.com/USG-Website-Templates/presentation)*
+* [Presentation 2](http://usg-website-templates.github.io/presentation2/) - *[code](https://github.com/USG-Website-Templates/presentation2)*
 
 
 ## Benefits
@@ -35,6 +36,8 @@ filename: github_presentations.md
 
 ## Loose Notes
 
+* http://lab.hakim.se/reveal-js/
+
 The framework is called impress.js. It's not technically GitHub pages specific, but Pages works well.
 
 * `http://earlyandoften.wordpress.com/2012/01/16/impress_js_github/`
@@ -52,3 +55,6 @@ Re: Accessibility - 'It's semantic HTML. So better than Powerpoint. Disable java
 * [Note alternates here](https://github.com/USG-Website-Templates)
 
 
+## Other potential examples 
+* http://vizzuality.github.io/rollingstonesmap/#/12
+* 

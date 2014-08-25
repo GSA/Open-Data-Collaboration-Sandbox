@@ -32,6 +32,8 @@ filename: github_presentations.md
 ### From Kin Lane
 * [Code](https://github.com/kinlane/talks/tree/gh-pages) | [Hosted](http://kinlane.github.io/talks/)  
 
+### From Matt Makai 
+* [Code](https://github.com/makaimc/mattmakai.github.io/tree/gh-pages/presentations) | [Hosted](http://www.mattmakai.com/talks.html)
 
 
 ## Loose Notes

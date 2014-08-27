@@ -14,6 +14,7 @@ filename: index.md
 * [Consuming JSON in HTML in GitHub](http://graybrooks.com/mustache-test-1/)
 * [Coworking Notes](https://github.com/18F/Digital_Coworking)
 * [Data Improvement Welcome Center](https://github.com/gbinal/Data-Improvement-Welcome-Center)
+* [Digital Strategy Pages - Links](http://gsa.github.io/Open-Data-Collaboration-Sandbox/digital_strategy_links)
 * [Embedding from GitHub Prototype](https://github.com/gbinal/embedding-github-prototype)
 * [GeoJSON in GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/geojson-in-github/)  
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)

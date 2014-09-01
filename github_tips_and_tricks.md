@@ -12,6 +12,7 @@ filename: github_tips_and_tricks.md
 * [Google Spreadsheets -> Markdown](https://github.com/jlord/sheetdown)
 * [Create Tables in MarkDown](http://www.tablesgenerator.com/markdown_tables)
 * [Clone GitHub Repos in the Browser](https://github.com/benbalter/copy-to)
+* [Embed GitHub Markdown as HTML](http://jsfiddle.net/ET5Tv/4/)
 * [Import Repos into GitHub](https://porter.github.com/new)
 * [Upload Files to GitHub in the Browser](https://github.com/benbalter/github-uploader)
 * [Organization Authentication](https://github.com/benbalter/add-to-org)

@@ -15,9 +15,10 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [CFPB API](http://cfpb.github.io/api/hmda/)  --  *[GSA's SAM.gov Derivative](http://gsa.github.io/sam_api/sam/)*
 * [CFPB eRegs](http://eregs.github.io/eregulations/)
 * [Green Button](http://green-button.github.io)  
-* [Blue Button](http://blue-button.github.io/)  
+* [Blue Button Toolkit](http://blue-button.github.io/)  
+* [Blue Button Connector](http://bluebuttonconnector.healthit.gov/) - *[code](https://github.com/blue-button/connector/tree/gh-pages)*
 * [Pillbox](https://hhs.github.io/pillbox/)  
-* [OpenFDA](http://open.fda.gov/) - *[code]()*    
+* [OpenFDA](http://open.fda.gov/) - *[code](https://github.com/FDA/open.fda.gov)*    
 * [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
 * [API.Data.gov](http://api.data.gov/) - *[code](https://github.com/GSA/api.data.gov)*  
 * [GSA Mobile Code Catalog](http://gsa.github.io/Mobile-Code-Catalog/) 

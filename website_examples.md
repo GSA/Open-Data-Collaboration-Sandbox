@@ -35,6 +35,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Open and Structured Content Model](http://gsa.github.io/Open-And-Structured-Content-Models/)
 * [NIEM](http://niem.github.io)
 * [Developer.Trade.Gov](http://developer.trade.gov/) - *[code](https://github.com/InternationalTradeAdministration/developerportal)*
+* [USGS R Code](http://usgs-r.github.io/)
 
 ## Non-Government 
 

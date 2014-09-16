@@ -103,6 +103,8 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [http://2048game.com/](http://gabrielecirulli.github.io/2048/) - *[code](http://github.com/gabrielecirulli/2048/)*
 * [http://bost.ocks.org/mike/](http://mbostock.github.io/bost.ocks.org) - *[code](https://github.com/mbostock/bost.ocks.org)*
 * [ToDo Group](https://todogroup.github.io) - *[code](https://github.com/todogroup/todogroup.github.io)*
+* [opendata.github.io/Legal-Synonyms/](http://opendata.github.io/Legal-Synonyms/)
+* [Open Data Institute](https://usodi.org/) - *[code](https://github.com/opendata/usodi.org)*
 
 
 

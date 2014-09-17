@@ -106,6 +106,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [opendata.github.io/Legal-Synonyms/](http://opendata.github.io/Legal-Synonyms/)
 * [Open Data Institute](https://usodi.org/) - *[code](https://github.com/opendata/usodi.org)*
 * [Dat Project](http://datproject.github.io/website/)
+* [codingforlawyers.com](http://codingforlawyers.com/) - *[code](https://github.com/vzvenyach/codingforlawyers)*
 
 
 

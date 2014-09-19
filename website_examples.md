@@ -37,6 +37,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Developer.Trade.Gov](http://developer.trade.gov/) - *[code](https://github.com/InternationalTradeAdministration/developerportal)*
 * [USGS R Code](http://usgs-r.github.io/)
 * [Python ART Radar Toolkit](http://arm-doe.github.io/pyart/)
+* [FBOpen Docs](http://18f.github.io/fbopen/)
 
 ## Non-Government 
 
@@ -133,8 +134,8 @@ http://cartodb.github.io/bcn_traffic_map/
 CartoDB.github.io/tweets_mtvhottest  
 http://cartodb.github.io/nyc_schools/  
 http://ericspry.github.io/mmba-first-viz/#4/38.82/-94.96  
-http://18f.github.io/fbopen/
 http://18f.github.io/fbopen-docs/
+http://hpc.github.io/
 
 
 

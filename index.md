@@ -20,6 +20,7 @@ filename: index.md
 * [GitHub as a Feedback Engine](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_as_a_feedback_engine)
 * [GitHub Demos](https://github.com/18F/github-demos)
 * [GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks)
+* [GSA Conference Room Directions](http://gsa.github.io/Open-Data-Collaboration-Sandbox/gsa_confererence_center_map)
 * [IfGovThenThat](https://github.com/18f/ifgovthenthat)
 * [Layering Third Party Services](http://gsa.github.io/Open-Data-Collaboration-Sandbox/layering-third-party-services)
 * [Microsite Template](https://github.com/GSA/Template-Microsite/)

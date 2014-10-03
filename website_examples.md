@@ -111,6 +111,8 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Dat Project](http://datproject.github.io/website/)
 * [codingforlawyers.com](http://codingforlawyers.com/) - *[code](https://github.com/vzvenyach/codingforlawyers)*
 * [http://dcfemtech.github.io/](http://dcfemtech.github.io/)
+* [http://yahoo.github.io](http://yahoo.github.io/)
+* [http://yahoo.github.io/gifshot/](http://yahoo.github.io/gifshot/)
 
 
 ## Potential Resources

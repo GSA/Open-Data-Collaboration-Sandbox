@@ -43,6 +43,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 
 ## Non-Government 
 
+* [Gov.UK Performance Documentation](http://alphagov.github.io/performanceplatform-documentation) - _Note: has search_
 * [Ben.Balter.com](http://ben.balter.com) - *[code](https://github.com/benbalter/benbalter.github.com)*  
 * [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  
 * [Canada's Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html) - *[code](https://github.com/wet-boew/wet-boew)*

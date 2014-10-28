@@ -45,6 +45,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 
 * [Gov.UK Performance Documentation](http://alphagov.github.io/performanceplatform-documentation) - _Note: has search_
 * [Example Git Data Publisher Dataset](http://git-data-publisher.github.io/Transactions-over-25-000-in-the-Foreign-and-Commonwealth-Office/)
+* [jlord.github.io/sheetsee.js/](http://jlord.github.io/sheetsee.js/)
 * [GPU Fluid HTML5 Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/)
 * [Ben.Balter.com](http://ben.balter.com) - *[code](https://github.com/benbalter/benbalter.github.com)*  
 * [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  

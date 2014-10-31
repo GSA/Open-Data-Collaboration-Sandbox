@@ -7,6 +7,8 @@ filename: github_tips_and_tricks.md
 
 *[Edit this page](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/github_tips_and_tricks.md)*
 
+1. [Submit Issues to GitHub Without An Account](https://github.com/benbalter/comment-card)
+1. [Submit Pull Requests to GitHub Without An Account](https://github.com/benbalter/redliner)
 1. [MS Word -> Markdown Website](http://word-to-markdown.herokuapp.com/)
 1. [Google Docs -> Markdown Script](https://github.com/mangini/gdocs2md)
 1. [Google Spreadsheets -> Markdown](https://github.com/jlord/sheetdown)

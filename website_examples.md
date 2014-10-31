@@ -50,6 +50,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [Ben.Balter.com](http://ben.balter.com) - *[code](https://github.com/benbalter/benbalter.github.com)*  
 * [API Evangelist](http://www.apievangelist.com) - *[code](https://github.com/kinlane/api-evangelist)*  
 * [Canada's Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html) - *[code](https://github.com/wet-boew/wet-boew)*
+* [Philadelphia Data Page](http://cityofphiladelphia.github.io/slash-data/)
 * [whatcanidoformozilla.org](http://whatcanidoformozilla.org)  
 * [open-contracting.github.io](http://open-contracting.github.io/)
 * [Government.Github.com](https://government.github.com/) - *[code](https://github.com/github/government.github.com)*

@@ -7,6 +7,8 @@ filename: website_examples.md
   
 List of example websites that are hosted in GitHub Pages.  Any of these can be instantly cloned and then repurposed with new material.  
 
+Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md) any others you find.
+
 ## Federal Government 
 
 * [Project Open Data](http://project-open-data.github.io)   
@@ -119,9 +121,6 @@ List of example websites that are hosted in GitHub Pages.  Any of these can be i
 * [http://dcfemtech.github.io/](http://dcfemtech.github.io/)
 * [http://yahoo.github.io](http://yahoo.github.io/)
 * [http://yahoo.github.io/gifshot/](http://yahoo.github.io/gifshot/)
-  
- *([edit this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
-
 
 
 ## Potential Resources

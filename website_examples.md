@@ -5,7 +5,7 @@ layout: default
 filename: website_examples.md
 ---
   
-List of example websites that are hosted in GitHub Pages.  *([edit this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
+List of example websites that are hosted in GitHub Pages.  Any of these can be instantly cloned and then repurposed with new material.  
 
 ## Federal Government 
 
@@ -119,6 +119,9 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [http://dcfemtech.github.io/](http://dcfemtech.github.io/)
 * [http://yahoo.github.io](http://yahoo.github.io/)
 * [http://yahoo.github.io/gifshot/](http://yahoo.github.io/gifshot/)
+  
+ *([edit this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md))*
+
 
 
 ## Potential Resources

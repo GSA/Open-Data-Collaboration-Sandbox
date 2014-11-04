@@ -24,6 +24,7 @@ Please add to the list below any that comem to mind.
 * [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)
 * [Mr. CSV Transformer](http://deepinthecode.github.io/mr-csv-transformer/?targets=xxx,yyy)
 * [JSON to CSV Kit](http://konklone.io/json/)
+* [Elastic Hammer](http://andrewvc.github.io/elastic-hammer/)
 
 
 *Candidates - Do these fit the criteria of being hosted and powered in GitHub?*    

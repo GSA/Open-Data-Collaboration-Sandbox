@@ -85,6 +85,7 @@ List of example websites that are hosted in GitHub Pages.  *([edit this list](ht
 * [laurenorsini.github.io/](http://laurenorsini.github.io/)  - *[code]()*  
 * [stevefrancia.com](http://stevefrancia.com/)  - *[code](https://github.com/spf13/spf13.github.com)*  
 * [spf13.com](http://spf13.com/)  - *[code](https://github.com/spf13/spf13.com)*  
+* [Elastic Hammer](http://andrewvc.github.io/elastic-hammer/)
 * [mdo.github.io/rem-test](http://mdo.github.io/rem-test/)  - *[code](http://mdo.github.io/rem-test/)*  
 * [mdo.github.io/code-guide](http://mdo.github.io/code-guide/)  - *[code](https://github.com/mdo/code-guide)*  
 * [Preboot](http://getpreboot.com/) - *[code](https://github.com/mdo/preboot/tree/gh-pages)*

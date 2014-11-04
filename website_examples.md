@@ -5,9 +5,9 @@ layout: default
 filename: website_examples.md
 ---
   
-List of example websites that are hosted in GitHub Pages.  Any of these can be instantly cloned and then repurposed with new material.  
+List of example websites that are hosted in GitHub Pages.  Any of these can be instantly cloned and then repurposed with new material.  A [collection of vanilla templates](http://usg-website-templates.github.io/) is being built from these to make this even easier.  
 
-Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md) any others you find.
+Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/edit/gh-pages/website_examples.md) any others you find.  
 
 ## Federal Government 
 

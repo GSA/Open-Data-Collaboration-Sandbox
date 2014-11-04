@@ -9,7 +9,7 @@ filename: tools_hosted_in_github.md
 
 Increasingly, GitHub is being used not just to host code or static webpages but fully-functioning tools.  Though these tools might pull in outside libraries (e.g. jquery), they crucially do not require the creator to request any traditional IT resources, such as a processor or storage.  Thus, the below are great examples of open source projects that can be easily replicated and modified for countless other uses.  
 
-Please add to the list below any that comem to mind.  
+Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox/blob/gh-pages/tools_hosted_in_github.md) any others you find.  
 
 
 ## Governmental

@@ -2,7 +2,10 @@
 layout: default
 ---
 
-All conference rooms have white boards, large flatscreen TVs with VGA adaptors, and room for adding chairs around  the sides of the room to expand seating capacity.  
+All conference rooms have white boards, large flatscreen TVs with VGA adaptors, and room for adding chairs around  the sides of the room to expand seating capacity.  They fit into three categories of meeting space: 
+* [large](http://gsa.github.io/Open-Data-Collaboration-Sandbox/pages/18f_conference_rooms#large-conference-rooms)
+* [Very Large](http://gsa.github.io/Open-Data-Collaboration-Sandbox/pages/18f_conference_rooms#very-large-conference-rooms)
+* [ultra Large](http://gsa.github.io/Open-Data-Collaboration-Sandbox/pages/18f_conference_rooms#ultra-large-conference-rooms)
 
 ## Large Conference Rooms
 
@@ -31,48 +34,36 @@ All conference rooms have white boards, large flatscreen TVs with VGA adaptors, 
 ![img_20140424_175826](https://cloud.githubusercontent.com/assets/633088/5074809/f179ad64-6e5b-11e4-8fe3-bdc3980af6b3.jpg)
 
 
-## Very Large 
+## Very Large Conference Rooms
 
-1459/1460/1461
+### 1459/1460/1461
 
-include layout options - ![screen shot 2014-11-17 at 1 14 32 pm](https://cloud.githubusercontent.com/assets/633088/5074801/e65a5654-6e5b-11e4-91a6-1f357fc063b7.png)
-
-Individual
-
-2 Combined (1459+1460 or 1460+1461) 
-
-3 Combined 
-
-Note hallways and outside areas 
-
-
-
+These three rooms can be booked individually, two combined, or all three combined.  This affects their capacity, as does the layouts chosen.  
 
 ![img_20141117_120859](https://cloud.githubusercontent.com/assets/633088/5074668/9e44c850-6e5a-11e4-9676-83319321354f.jpg)
 ![img_20141117_120911](https://cloud.githubusercontent.com/assets/633088/5074669/9e4617aa-6e5a-11e4-8191-fc9fec210759.jpg)
 
-Boardroom Style 
+#### 1460, Set Up Boardroom Style 
 ![img_20140107_140651](https://cloud.githubusercontent.com/assets/633088/5074808/f177e02e-6e5b-11e4-9164-147c4be6e4ec.jpg)
 
-Classroom Rows
+#### 1461, Set Up Classroom Rows
 ![img_20140107_140633](https://cloud.githubusercontent.com/assets/633088/5074807/f177915a-6e5b-11e4-98af-fa9a1529fe59.jpg)
 
+#### Room Layout Options, With Resulting Capacity
 
-### 2x Outside Conversation Rooms 
+![screen shot 2014-11-17 at 1 14 32 pm](https://cloud.githubusercontent.com/assets/633088/5074801/e65a5654-6e5b-11e4-91a6-1f357fc063b7.png)
+
+
+### 2x Nearby Nooks, Good for Break-Out Sessions
 ![img_20141117_120831](https://cloud.githubusercontent.com/assets/633088/5074666/9e41aa76-6e5a-11e4-8516-c4c721753dc0.jpg)
 
 ### Outside Hallway 
 ![img_20141117_120919](https://cloud.githubusercontent.com/assets/633088/5074670/9e4a548c-6e5a-11e4-9f8e-44eb7527abe0.jpg)
 
-## Ultra Large 
+## Ultra Large Conference Rooms
 
 ### Auditorium (275 ppl)
 
 ![auditorium2](https://cloud.githubusercontent.com/assets/633088/5074810/f179cab0-6e5b-11e4-9f60-abe2dde36c5a.jpg)
 ![auditorium1](https://cloud.githubusercontent.com/assets/633088/5074811/f17c7166-6e5b-11e4-9b22-d43d71fa90d5.jpg)
-
-
-
-
-
 

@@ -1,8 +1,8 @@
+---
+layout: default
+---
 
 All conference rooms have white boards, large flatscreen TVs with VGA adaptors, and room for adding chairs around  the sides of the room to expand seating capacity.  
-
-include event pictures, include open data event
-
 
 ## Large Conference Rooms
 

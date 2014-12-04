@@ -122,6 +122,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [http://dcfemtech.github.io/](http://dcfemtech.github.io/)
 * [http://yahoo.github.io](http://yahoo.github.io/)
 * [http://yahoo.github.io/gifshot/](http://yahoo.github.io/gifshot/)
+* [http://geonode.org/](http://geonode.github.com/)
 
 
 ## Potential Resources

@@ -13,7 +13,6 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 
 * [Project Open Data](http://project-open-data.github.io)   
   * [Project Interoperability](http://project-interoperability.github.io) 
-* [/Developer Program](http://18f.github.io/API-All-the-X/)  
 * [CFPB Tech Hub](http://cfpb.github.io)  
   * [GSA Tech Hub](https://gsa.github.io)
 * [CFPB API](http://cfpb.github.io/api/hmda/)
@@ -21,6 +20,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
   * [GSA Auctions]()
   * [Open IAE](http://gsa.github.io/openIAE/)
 * [CFPB eRegs](http://eregs.github.io/eregulations/)
+* [/Developer Program](http://18f.github.io/API-All-the-X/)  
 * [Green Button](http://green-button.github.io)  
 * [Blue Button Toolkit](http://blue-button.github.io/)  
 * [Blue Button Connector](http://bluebuttonconnector.healthit.gov/) - *[code](https://github.com/blue-button/connector/tree/gh-pages)*

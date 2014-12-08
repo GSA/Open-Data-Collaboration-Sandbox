@@ -127,6 +127,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [http://yahoo.github.io](http://yahoo.github.io/)
 * [http://yahoo.github.io/gifshot/](http://yahoo.github.io/gifshot/)
 * [http://geonode.org/](http://geonode.github.com/)
+* [Emoji CSS](http://afeld.github.io/emoji-css/)
 
 
 ## Potential Resources

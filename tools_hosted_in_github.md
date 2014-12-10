@@ -19,6 +19,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [Catalog Generator - Project Open Data](http://project-open-data.github.io/catalog-generator/)
 * [JSON Validator - Project Open Data](http://project-open-data.github.io/json-validator/)
 * [FCC Antenna Tower Locator](http://fcc.github.io/am-tower-locator/)
+* [ITA's API filter](http://internationaltradeadministration.github.io/explorer/)
 
 ## Non-Governmental
 * [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/)

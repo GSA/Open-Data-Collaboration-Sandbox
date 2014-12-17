@@ -145,7 +145,7 @@ http://cartodb.github.io/oldweather_wwi/
 http://cartodb.github.io/academy/  
 http://nmrugg.github.io/LZMA-JS/  
 http://ivaynberg.github.io/select2/  
-
+http://millzpaugh.github.io/
 
 developmentseed.github.io/census-tracts/  
 https://CartoDB.github.io/real-time-map  

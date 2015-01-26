@@ -34,6 +34,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [Presidential Innovation Fellows](http://presidential-innovation-fellows.github.io)
 * [FCC Antenna Tower Locator](http://fcc.github.io/am-tower-locator/)
 * [USACE HashDist](http://hashdist.github.io/)
+* [NIH 3D Printing API](http://niaid.github.io/3dpx_api/)
 * [HHS](http://hhs.github.io)
 * [DOI Extractives Data](http://18f.github.io/doi-extractives-data/)
 * [DOI Data Hub](http://usinterior.github.io/doi-data-hub/)

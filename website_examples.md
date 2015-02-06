@@ -136,6 +136,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 ## Potential Resources
 
 * http://hugo.spf13.com/
+* http://beautifulopen.com/
 
 ## Need to Process
 http://cartodb.github.io/torque/  

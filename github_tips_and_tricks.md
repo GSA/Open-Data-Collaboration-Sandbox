@@ -20,6 +20,7 @@ filename: github_tips_and_tricks.md
 1. [Organization Authentication](https://github.com/benbalter/add-to-org)
 1. [Visualization of GitHub Hosted CSVs](http://blog.statwing.com/visualize-any-public-csv-on-github-in-a-few-clicks/)
 1. [Markdown to PDF Converter](https://github-pdf.herokuapp.com/benbalter/markdown-to-pdf/blob/master/README.pdf)
+1. [Use MS Word Diffs with GitHub](http://ben.balter.com/2015/02/06/word-diff/)
 
 ## Basics 
 * [Hello World guide](https://guides.github.com/activities/hello-world/)

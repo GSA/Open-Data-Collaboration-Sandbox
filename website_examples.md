@@ -11,7 +11,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 
 ## Federal Government 
 
-* [Project Open Data](http://project-open-data.github.io)   
+* [Project Open Data](http://project-open-data.github.io)    
   * [Project Interoperability](http://project-interoperability.github.io) 
 * [CFPB Tech Hub](http://cfpb.github.io)  
   * [GSA Tech Hub](https://gsa.github.io)

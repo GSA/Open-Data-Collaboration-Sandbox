@@ -20,6 +20,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
   * [GSA Auctions]()
   * [Open IAE](http://gsa.github.io/openIAE/)
 * [CFPB eRegs](http://eregs.github.io/eregulations/)
+* [OMB/GSA HTTPS Guidance](https://https.cio.gov/)
 * [/Developer Program](http://18f.github.io/API-All-the-X/)  
 * [Green Button](http://green-button.github.io)  
 * [Blue Button Toolkit](http://blue-button.github.io/)  

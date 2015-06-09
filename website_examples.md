@@ -49,6 +49,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [18F - Agile Assisted Acquisitions](http://18f.github.io/aaa/)
 * [fedspendingtransparency.github.io](http://fedspendingtransparency.github.io/)
 * [IOOS GitHub Site](http://ioos.github.io/)
+* [Census Bureau CitySDK](http://uscensusbureau.github.io/citysdk/)
 
 ## Non-Government 
 

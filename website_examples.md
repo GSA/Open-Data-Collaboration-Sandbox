@@ -51,6 +51,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [fedspendingtransparency.github.io](http://fedspendingtransparency.github.io/)
 * [IOOS GitHub Site](http://ioos.github.io/)
 * [Census Bureau CitySDK](http://uscensusbureau.github.io/citysdk/)
+* [OGP-GSA's GitHub Dashboard](http://gsa.github.io/github-federal-stats/)
 
 ## Non-Government 
 

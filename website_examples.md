@@ -61,6 +61,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [OGP-GSA's GitHub Dashboard](http://gsa.github.io/github-federal-stats/)
 * [JKAN](http://gsa.github.io/jkan/)
 * [GSA's open gov site](https://gsa.github.io/opengovplan/newflagship/)
+* [e-regs](https://eregs.github.io/)
 
 ## Non-Government 
 

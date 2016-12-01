@@ -32,7 +32,8 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [Data.json Builder](https://project-open-data.cio.gov/datajson-builder/)
 * [hiu-beta.state.gov](http://hiu-beta.state.gov/) - [code](https://github.com/state-hiu/hiu.state.gov)
 * [Blue Button Connector](http://bluebuttonconnector.healthit.gov/) - *[code](https://github.com/blue-button/connector/tree/gh-pages)*
-* [Pillbox](https://hhs.github.io/pillbox/)  
+* [Pillbox](https://hhs.github.io/pillbox/) 
+* [USDA Data Standards](https://usda.github.io/data-standards/)
 * [OpenFDA](http://open.fda.gov/) - *[code](https://github.com/FDA/open.fda.gov)*    
 * [DOL Developer Documentation](http://usdepartmentoflabor.github.io/DOLAPI/)
 * [OPM's USAJOBS Design System](http://usajobs.github.io/design-system/getting-started/)

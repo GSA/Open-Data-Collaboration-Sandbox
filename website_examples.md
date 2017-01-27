@@ -22,7 +22,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
   * [GSA Tech Hub](https://gsa.github.io)
 * [CFPB API](http://cfpb.github.io/api/hmda/)
   * [GSA's SAM.gov Derivative](http://gsa.github.io/sam_api/sam/)
-  * [GSA Auctions]()
+  * [GSA Open Source Policy](https://gsa.github.io/GSAOpenSourcePolicy/)
   * [Open IAE](http://gsa.github.io/openIAE/)
 * [CFPB eRegs](http://eregs.github.io/eregulations/)
 * [OMB/GSA HTTPS Guidance](https://https.cio.gov/)

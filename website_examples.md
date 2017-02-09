@@ -26,6 +26,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
   * [GSA Open Source Policy](https://gsa.github.io/GSAOpenSourcePolicy/)
   * [Open IAE](http://gsa.github.io/openIAE/)
 * [CFPB eRegs](http://eregs.github.io/eregulations/)
+* [CFPB Design Manual](http://cfpb.github.io/design-manual/)
 * [OMB/GSA HTTPS Guidance](https://https.cio.gov/)
 * [OMB Techfar Guidance](https://techfarhub.cio.gov/)
 * [/Developer Program](http://18f.github.io/API-All-the-X/)  

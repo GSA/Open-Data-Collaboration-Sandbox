@@ -69,6 +69,7 @@ Please [add to this list](https://github.com/GSA/Open-Data-Collaboration-Sandbox
 * [e-regs](https://eregs.github.io/)
 * https://gsa.github.io/sdg-indicators/
 * https://usda.github.io/data-standards/
+* https://usajobs.github.io/openopps-help/
 
 ## Non-Government 
 
